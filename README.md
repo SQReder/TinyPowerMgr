@@ -1,4 +1,4 @@
 TinyPowerMgr
 ============
 
-Tiny power plane manager for notebooks
+Tiny power plan manager for notebooks
